@@ -1,7 +1,7 @@
 # amqp091-comp
 
 This package can convert github.com/Azure/go-amqp (amqp 1.0) to github.com/rabbitmq/amqp091-go (amqp 0.9.1) messages and vice versa.
-It is based on the 
+The conversion is baed on the implementation of https://github.com/Azure/go-amqp
 
 #Usage: 
 Q: When you should use this package?
